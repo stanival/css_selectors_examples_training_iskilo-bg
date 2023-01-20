@@ -1,0 +1,8 @@
+Training.skillo-bg Register
+http://training.skillo-bg.com:4200/users/register
+
+#defaultRegisterPhonePassword
+[id='defaultRegisterPhonePassword']
+[type='password']
+#sign-in-button
+[id='sign-in-button']
